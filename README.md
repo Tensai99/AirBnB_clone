@@ -169,6 +169,6 @@ The recognizable commands by the interpreter are the following:
 
 ## Author
 
-Innocent Mtingwi #email:eimtingwi@gmail.com #Residing:Lilongwe #Contact:+265996393991
-Dennis Mhango #email:dmhango95@gmail.com #Residing:Blantyre #Contact:+265882555506
+Innocent Mtingwi ## email:eimtingwi@gmail.com ## Residing:Lilongwe ## Contact:+265996393991
+Dennis Mhango ## email:dmhango95@gmail.com ## Residing:Blantyre ## Contact:+265882555506
 THANK YOU
